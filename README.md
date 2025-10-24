@@ -4,7 +4,7 @@
 
 ![Fusion Game Banner](https://img.shields.io/badge/Fusion-Beta%200.5-blue)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green)
-![License](https://img.shields.io/badge/License-MIT-orange)
+![License](https://img.shields.io/badge/License-apache-orange)
 
 ** 您是否有想要驾驶光速飞船的梦想?现在就能实现！ **
 
